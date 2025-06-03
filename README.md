@@ -28,7 +28,7 @@ Minha trajetória sempre foi movida por desafios, aprendizado contínuo e pela b
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaogobbi&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogobbi&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogobbi&layout=compact&theme=tokyonight&hide=java"/>
 </div>  
 
 ---
